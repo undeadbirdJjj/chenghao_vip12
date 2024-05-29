@@ -123,5 +123,3 @@ ak47.add_bullet(2)
 asolider.shoot()
 asolider.shoot()
 ak47.add_bullet(2)
-
-print('pycharm操作git')
